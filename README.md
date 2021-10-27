@@ -21,19 +21,3 @@ a data analyst 👨‍💻 who is in fond of piano music and fiction novel.
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yaronhuang@foxmail.com)](yq55666@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/zjwo)](https://github.com/yq55666yq55666)
-
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=zjwo&show_icons=true&hide_border=true">
-
-## 🧐 About
-
-- 👨‍💻 My blog: 
-- 📫 How to reach me: yq55666@gmail.com
-- 🌱 Languages and Tools: 
-
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="10%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<br />
