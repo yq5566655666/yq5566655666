@@ -4,7 +4,7 @@
 a data analyst 👨‍💻 who is in fond of piano music and fiction novel.
 ![Metrics](https://metrics.lecoq.io/yq5566655666?template=classic&config.timezone=Asia%2FShanghai)
 
-![Qiang YU's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=#90824319 &show_icons=true&count_private=true&theme=gotham)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=yq5566655666 &show_icons=true&count_private=true&theme=gotham)
 
 
 
