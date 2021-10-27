@@ -4,5 +4,5 @@
 a data analyst 👨‍💻 who is in fond of piano music and fiction novel.
 ![Metrics](https://metrics.lecoq.io/yq5566655666?template=classic&config.timezone=Asia%2FShanghai)
 
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yaronhuang@foxmail.com)](yq55666@gmail.com)
+[![CSDN Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yaronhuang@foxmail.com)](https://blog.csdn.net/weixin_44850561?spm=1001.2101.3001.5343)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/yq5566655666)](https://github.com/yq5566655666)
